@@ -38,4 +38,4 @@ Se você só tem um par de algoritmos e eles raramente mudam, não há motivo re
 
 ### Exemplo: 
 
-XXXX
+![Strategy](Strategy.png)
